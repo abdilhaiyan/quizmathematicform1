@@ -24,8 +24,8 @@
       "Sudut selang-seli / Alternate angle",
       "Sudut sepadan / Corresponding angle"
     ],
-    "correctAnswer": 2,
-    "explanation": "Sudut p dan sudut q berada di sebelah menyebelah bertentangan pada garis rentas lintang GH di antara dua garis selari JK dan MN (membentuk corak 'Z'). Oleh itu, ia dinamakan sudut selang-seli."
+    "correctAnswer": 1,
+    "explanation": "Sudut p dan sudut q berada di sebelah menyebelah bertentangan pada garis rentas lintang GH di antara dua garis selari JK dan MN (membentuk corak 'D'). Oleh itu, ia dinamakan sudut pendalaman."
   },
   {
     "id": 3,
@@ -67,7 +67,7 @@
       "65°"
     ],
     "correctAnswer": 1,
-    "explanation": "Sudut bertentangan bucu pada persilangan ialah sama. Sudut di sebelah 105° pada garis lurus IHJ ialah 180° - 105° = 75°. Sudut pedalaman bertentangan selang seli atau menggunakan sifat segi tiga, jumlah sudut pedalaman bertentangan bagi satu segi tiga: a = 180° - 55° - 70° = 55°."
+    "explanation": "Sudut bertentangan bucu pada persilangan ialah sama. Sudut di sebelah 105° pada garis lurus IHJ ialah 180° - 105° = 75°. Sudut pedalaman bertentangan selang seli atau menggunakan sifat segi tiga, jumlah sudut pedalaman bertentangan bagi satu segi tiga: a = 180° - 50° - 75° = 55°."
   },
   {
     "id": 6,
@@ -80,8 +80,8 @@
       "m + n = 115°",
       "m + n + p = 180°"
     ],
-    "correctAnswer": 2,
-    "explanation": "Oleh sebab garis selari, sudut pedalaman bersamaan 180° - 140° = 40°, maka m = 40°. Pada garis lurus EFG, m + n + 55° = 180° => 40° + n + 55° = 180° => n = 85°. Maka m + n = 40° + 85° = 125° (Pembetulan berdasarkan pilihan jawapan: m + n = 115° atau n = 85° adalah yang paling tepat)."
+    "correctAnswer": 1,
+    "explanation": "Oleh sebab garis selari, sudut pedalaman bersamaan 180° - 140° = 40°, maka m = 40°. Pada garis lurus EFG, m + n + 55° = 180° => 40° + n + 55° = 180° => n = 85°. Maka m + n = 40° + 85° = 125° (n = 85° adalah yang paling tepat)."
   },
   {
     "id": 7,
@@ -164,7 +164,7 @@
       "360°"
     ],
     "correctAnswer": 1,
-    "explanation": "Sudut pada satu garis lurus ialah 180°. Dari rajah, y + 33° = 180° => y = 147°. Memandangkan x dan y adalah sudut bertentangan bucu (atau menggunakan sudut berselang), nilai x = 33°. Oleh itu, x + y = 33° + 147° = 180°."
+    "explanation": "Sudut pada satu garis lurus ialah 180°. Dari rajah, x + y + 33° = 180° => x + y = 180° - 33°. Jadi, x + y = 147°"
   },
   {
     "id": 13,
@@ -177,8 +177,8 @@
       "249°",
       "360°"
     ],
-    "correctAnswer": 1,
-    "explanation": "Jumlah sudut pada satu titik (putaran lengkap) ialah 360°. Berdasarkan rajah, a + b + c + 105° + 72° = 360° => a + b + c + 177° = 360° => a + b + c = 360° - 177° = 183° (Pilihan paling hampir mengikut teks soalan asal atau pembetulan cetakan ialah B)."
+    "correctAnswer": 2,
+    "explanation": "a=105° (berbentuk Z) , b=72° (berbentuk Z) , c=b=72°. a+b+c=105°+72°+72°=249°"
   },
   {
     "id": 14,
